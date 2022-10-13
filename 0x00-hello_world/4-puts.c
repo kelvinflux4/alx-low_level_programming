@@ -7,10 +7,6 @@
  */
 int main(void)
 {
-	str[];
-
-	gets str = (Programming is like building a multilingual puzzle);
-
-	puts("%s\n", str);
+	puts("Programming is like building a multilingual puzzle");
 	return (0);
 }
