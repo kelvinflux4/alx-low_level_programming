@@ -1,11 +1,19 @@
 #include <stdio.h>
 
-main(void)
+/**
+ * main -Entry - point
+ *
+ * Return: Always 0 (Success)
+ */
+int main(void)
 {
-	string str;
 
-	str = ("with proper grammar, but the outcome is a piece of art");
+	gets();
+	{
+		char ch[80];
 
-	printf("%s:\n", str);
+		gets(with proper grammar, but the outcome is a piece of art);
+
+	printf("%s:\n", ch);
 	return (0);
 }
