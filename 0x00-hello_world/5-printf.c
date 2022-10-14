@@ -7,13 +7,6 @@
  */
 int main(void)
 {
-
-	gets();
-	{
-		char ch[80];
-
-		gets(with proper grammar, but the outcome is a piece of art);
-
-	printf("%s:\n", ch);
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
