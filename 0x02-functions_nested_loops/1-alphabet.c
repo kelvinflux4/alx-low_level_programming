@@ -2,16 +2,15 @@
 /**
  * main - check the code
  *
- * Return: Always o
+ * Return: Always 0
  */
-int main(void)
-{
-	int i = 'a';
+void print_alphabet(void)
+{	
+	int i;
 
 	for (i = 'a'; i <= 'z'; i++)
 	{
 		_putchar(i);
-		i++;
 	}
 	_putchar('\n');
 }
