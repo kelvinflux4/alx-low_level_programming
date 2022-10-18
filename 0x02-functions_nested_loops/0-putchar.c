@@ -1,10 +1,8 @@
 #include "main.h"
 
 /**
- * main - entry point
- * 
- * Return: On success
- * 
+ * main - Entry pount
+ * Return: 0 success
  */
 int main(void)
 {
