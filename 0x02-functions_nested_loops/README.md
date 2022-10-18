@@ -10,4 +10,9 @@ task 8: Write a function that prints every minute of the day of Jack Bauer, star
 task 9: Write a function that prints the 9 times table, starting with 0.
 task 10: Write a function that adds two integers and returns the result.
 task 11: Write a function that prints all natural numbers from n to 98, followed by a new line.
-task 12:
+task 12: write function that prints the n times table, starting with 0.
+task 13: Nature made the natural numbers; All else is the work of women
+task 14: Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+task 15: Even Liber Abbaci
+task 16: Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
+
