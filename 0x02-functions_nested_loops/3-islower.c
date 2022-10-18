@@ -1,21 +1,20 @@
 #include "main.h"
 
 /**
- * _islower(int c) - checks the code
- *
+ * _islower - checks for lowercase characters
+ * @c: is to be printed
  * Return: 0 success
  */
 int _islower(int c)
 {
-	int num;
 
 	if (c >= 'a' && c <= 'z')
 	{
-		num 1;
+		return (1);
 	}
 	else
 	{
-		num = 0;
+		return (0);
 	}
-	return (num);
+	return (0);
 }
